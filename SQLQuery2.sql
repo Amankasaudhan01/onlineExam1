@@ -28,6 +28,6 @@ select *from mcqdetails
 
 exec sp_help 'userinfo'
 
-delete from mcqdetails where qno=8
+
 
 
